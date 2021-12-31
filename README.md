@@ -16,10 +16,11 @@ For more details and quality analysis, see the [paper](https://arxiv.org/abs/210
 ## Citing
 If you use ParaShoot in your research, please cite the ParaShoot paper:
 ```bibtex
-@article{keren2021parashoot,
+@inproceedings{keren2021parashoot,
   title={ParaShoot: A Hebrew Question Answering Dataset},
   author={Keren, Omri and Levy, Omer},
-  journal={arXiv preprint arXiv:2109.11314},
+  booktitle={Proceedings of the 3rd Workshop on Machine Reading for Question Answering},
+  pages={106--112},
   year={2021}
 }
 ```
